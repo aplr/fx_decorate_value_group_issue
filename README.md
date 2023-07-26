@@ -24,5 +24,7 @@ I reduced the output only to the relevant fields.
 
 However, this is the **actual**, faulty output, again only the relevant fields:
 
+```
 {"logger":"my_service.service","msg":"name should be `my_service.service`"}
 {"logger":"dummy","msg":"name should be `my_service.dummy`"}
+```
